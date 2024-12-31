@@ -1,3 +1,7 @@
+#campatable for
+-all linux distros
+-parrot, kali .black arch,etc.......
+
 # CCTV-Hacking-Tool
 
 This is a Python script that exploits vulnerabilities in CCTV cameras to gain unauthorized access and take control of the surveillance footage. The tool is designed to be used for ethical hacking and penetration testing purposes only.
@@ -15,9 +19,10 @@ This is a Python script that exploits vulnerabilities in CCTV cameras to gain un
 - OpenCV library
 - Requests library
 - Nmap library
+- word list(recomended "rockyou.txt") 
 
 ## Usage
-1. Clone the repository: ``
+1. Clone the repository: git@github.com:AHINDEV/CCTV-HACKING.git
 2. Install the required libraries: `pip install -r requirements.txt`
 3. Run the script: `python3 cctv .py`
 4. Enter the IP address of the target CCTV camera when prompted
